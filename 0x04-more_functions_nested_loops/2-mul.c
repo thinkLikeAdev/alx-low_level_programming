@@ -3,13 +3,13 @@
 
 /**
 * mul - multiply two numbers
-* @num1: first number
-* @num2: second number
+* @a: first number
+* @b: second number
 *
-* Return: sum of num1 & num2
+* Return: product of a & b
 */
 
-int mul(int num1, int num2)
+int mul(int a, int b)
 {
-	return (num1 + num2);
+	return (a + b);
 }
